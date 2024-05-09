@@ -132,7 +132,7 @@ if __name__ == '__main__':
 奖品10金融满返券,使用条件:100-10,ID:JFMS20230006
 奖品1000积分,使用条件:积分商城,ID:JFMS20230007
     '''
-    ck='act_sid=act-xxxx-2d19-4c76-xxxx-xxxx'
+    ck='act_sid=act-a4a61b7c-3628-4472-9420-03e21169c7fd'
     plist=['QYHQ20231006']#每月要抢的
     p3='JFMS20230007'#周三要抢的
     sa = hebao_hy_goods()
